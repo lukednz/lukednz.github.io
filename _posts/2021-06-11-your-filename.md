@@ -3,7 +3,7 @@ published: true
 ---
 ---
 layout: post
-title: Test Post
+title: "Test Post"
 ---
 
 ## A New Post
